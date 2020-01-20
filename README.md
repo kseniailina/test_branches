@@ -28,6 +28,3 @@ test develop
 develop
 test master
 лорлофы
-аывыв
-kjdhse
-kjdks
