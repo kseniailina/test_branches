@@ -11,7 +11,7 @@ feature pull-request3
 test work1
 feature work2
 feature pull-request1 from work2
-test develop
+testdevelop
 test pull-request1 from develop
 test pull-request2 to develop
 test develop
