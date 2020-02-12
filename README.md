@@ -28,6 +28,4 @@ test develop
 develop
 test master
 tag
-dsfsdf
-dsd
 test pull-request
