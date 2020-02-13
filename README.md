@@ -27,5 +27,3 @@ test develop
 test develop
 develop
 test master
-tag
-test pull-request
